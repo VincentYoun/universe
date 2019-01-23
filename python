@@ -1,0 +1,6 @@
+num1 = input('분자 값')
+# if num1=='q'
+num2=input('분모')
+
+result=int(num1)/int(num2)
+print(result)
